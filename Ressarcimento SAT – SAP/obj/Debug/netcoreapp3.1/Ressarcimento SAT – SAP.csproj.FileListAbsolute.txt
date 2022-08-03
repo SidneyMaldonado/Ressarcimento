@@ -1,0 +1,19 @@
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.csproj.AssemblyReference.cache
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.AssemblyInfoInputs.cache
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.AssemblyInfo.cs
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.csproj.CoreCompileInputs.cache
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.exe
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.deps.json
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.runtimeconfig.json
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.runtimeconfig.dev.json
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.dll
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\bin\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.pdb
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\staticwebassets\Ressarcimento SAT – SAP.StaticWebAssets.Manifest.cache
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.RazorTargetAssemblyInfo.cache
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.dll
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.pdb
+C:\Users\Sidney\source\repos\Ressarcimento SAT – SAP\Ressarcimento SAT – SAP\obj\Debug\netcoreapp3.1\Ressarcimento SAT – SAP.genruntimeconfig.cache

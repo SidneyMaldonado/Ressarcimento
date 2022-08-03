@@ -1,0 +1,3 @@
+\\s1083.ms\repositorio\bi_desenv\fazenda\cargas_textos\ressarcimento
+\\s1083.ms\BI
+\\s1083.ms\repositorio\BI\fazenda\cargas_textos\log_S905

@@ -1,0 +1,13 @@
+carlos é o responsável
+
+o marcio avisa que chegou arquivos
+
+o sistemas da equipe da ana gasparin envia o arquivo
+arquivo chega na pasta (\\ms\\repositorio\\bi\\cargas_textos\\ressarcimento\\zipados
+
+job le o arquivo de uma pasta 
+job coloca o arquivo no banco de dados
+o marcio acessa os dados no banco de dados
+o sistema é desenvolvido no VStudio com SSis
+-------------------------------------------------------------------------------------
+

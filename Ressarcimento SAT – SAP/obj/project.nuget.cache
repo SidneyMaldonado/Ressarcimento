@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPACM8Zy8Ay+PIffiWrxeDOHuWglZ+xlOcFbKqzvSPmYkJnY52FKH0V1B68ZMkrDqpR4zQ9XNBWslFdYz3pApg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sidney\\source\\repos\\Ressarcimento SAT – SAP\\Ressarcimento SAT – SAP\\Ressarcimento SAT – SAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sidney\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
